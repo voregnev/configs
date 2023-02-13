@@ -1,6 +1,6 @@
 # configs
 
-Install tmp for tmux : 
+Configure tmux : 
 1) git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 2) copy tmux.conf
 
