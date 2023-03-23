@@ -3,7 +3,7 @@
 Configure tmux : 
 ```
 1) git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-2) copy tmux.conf
+2) copy tmux.conf from repo
 3) prefix + shift i
 ```
 
