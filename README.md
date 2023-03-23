@@ -15,7 +15,7 @@ Configure zsh:
 4) apt install fzf
 5) git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $HOME/.oh-my-zsh/themes/powerlevel10k
 6) git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-7) copy conf .zshrc
+7) copy conf .zshrc from repo
 ```
 
 For OpenStack :
