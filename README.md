@@ -1,11 +1,14 @@
 # configs
 
 Configure tmux : 
+
+1)
 ```
-1) git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-2) copy tmux.conf from repo
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+2) copy tmux.conf from repo in file .tmux.conf
 3) prefix + shift i
-```
+
 
 Configure zsh:
 ```
