@@ -118,4 +118,4 @@ source $ZSH/oh-my-zsh.sh
 #openstack () {
   #/usr/bin/openstack $@ --fit
 #}
-. /home/ubuntu/op_auth/admin-openrc
+#. /home/ubuntu/op_auth/admin-openrc
