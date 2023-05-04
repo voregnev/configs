@@ -82,7 +82,7 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#585858"
 # Add wisely, as too many plugins slow down shell startup.
 #plugins=(git)
 
-plugins=(git glance nova zsh-syntax-highlighting zsh-interactive-cd zsh-navigation-tools zsh-autosuggestions)
+plugins=(git zsh-syntax-highlighting zsh-interactive-cd zsh-navigation-tools zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
 
