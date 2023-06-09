@@ -1,6 +1,6 @@
-<mxfile modified="2023-06-09T12:21:47.274Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="x3FAGVb1P9SC8IT1qXbA" version="21.3.8" type="github">
+<mxfile modified="2023-06-09T12:30:06.585Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="apgWI67kVLQAQ-3uW8To" version="21.3.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1215" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,37 +184,6 @@
         </mxCell>
         <mxCell id="776" value="6" style="shape=ellipse;fillColor=#ffffff;strokeColor=#BDBDBD;strokeWidth=2;shadow=0;gradientColor=none;fontColor=#757575;align=center;html=1;fontStyle=1;spacingTop=-1;" parent="1" vertex="1">
           <mxGeometry x="426" y="451" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="779" value="" style="fillColor=#ffffff;strokeColor=#BDBDBD;strokeWidth=1;shadow=0;gradientColor=none;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="620" width="600" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="780" value="1 Commit code" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" parent="779" vertex="1">
-          <mxGeometry width="200" height="30" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="781" value="2 Detect code change" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" parent="779" vertex="1">
-          <mxGeometry width="200" height="30" relative="1" as="geometry">
-            <mxPoint y="30" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="782" value="3 Build immutable image" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" parent="779" vertex="1">
-          <mxGeometry width="200" height="30" relative="1" as="geometry">
-            <mxPoint x="200" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="783" value="4 Launch test instance from image" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" parent="779" vertex="1">
-          <mxGeometry width="200" height="30" relative="1" as="geometry">
-            <mxPoint x="200" y="30" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="784" value="5 Run tests" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" parent="779" vertex="1">
-          <mxGeometry width="200" height="30" relative="1" as="geometry">
-            <mxPoint x="400" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="785" value="6 Perform rolling update of image to autoscaler" style="strokeColor=none;fillColor=none;fontColor=#757575;align=left;html=1;fontStyle=0;spacingLeft=5;fontSize=11;verticalAlign=top;whiteSpace=wrap;spacingRight=5;" parent="779" vertex="1">
-          <mxGeometry width="200" height="30" relative="1" as="geometry">
-            <mxPoint x="400" y="30" as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
